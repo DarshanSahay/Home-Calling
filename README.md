@@ -4,9 +4,11 @@
 
 - The Game features Two Playable Characters.
 
-- For the Time Being I have Implemented State Behavior for Enemies and Animation Events to Handle Character.
+- Singleton , Interface and Observer Pattern has been used.
 
-- I am working on Adding Design patterns like Observer and Singleton to make the game more Scalable.
+- State Design Pattern for Player States and Animation Events to Handle Character.
+
+- State Behavior for Enemies which Chases and Attacks the Player.
 
 ### Game ScreenShots
 
