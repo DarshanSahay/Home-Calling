@@ -10,12 +10,12 @@
 
 ### Game ScreenShots
 
-<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Home%20Calling/Assets/Game%20ScreenShots/Gif%201.gif" width="700" height="400" /></p>
+<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Game%20ScreenShots/Gif%201.gif" width="700" height="400" /></p>
 
-<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Home%20Calling/Assets/Game%20ScreenShots/Gif%202.gif" width="700" height="400" /></p>
+<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Game%20ScreenShots/Gif%202.gif" width="700" height="400" /></p>
 
-<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Home%20Calling/Assets/Game%20ScreenShots/Gif%203.gif" width="700" height="400" /></p>
+<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Game%20ScreenShots/Gif%203.gif" width="700" height="400" /></p>
 
-<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Home%20Calling/Assets/Game%20ScreenShots/Gif%204.gif" width="700" height="400" /></p>
+<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Game%20ScreenShots/Gif%204.gif" width="700" height="400" /></p>
 
-<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Home%20Calling/Assets/Game%20ScreenShots/Gif%205.gif" width="700" height="400" /></p>
+<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/Home-Calling/blob/main/Game%20ScreenShots/Gif%205.gif" width="700" height="400" /></p>
